@@ -6,7 +6,7 @@ The source code is private. This repository only holds release files.
 
 ## Download
 
-Latest version: [Releases](https://github.com/evolvark-labs/tabby-releases/releases/latest)
+All versions: [Releases](https://github.com/evolvark-labs/tabby-releases/releases)
 
 Windows, Rhino 8. A licence key is needed; it comes with your invitation.
 
